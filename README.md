@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Kavya Varshini Anburasu
+
+I'm a passionate cybersecurity enthusiast and graduate student at George Washington University. With a strong foundation in Computer Science and Engineering, I specialize in areas like AI, deep neural networks, cyber attacks, and defense mechanisms. I’m currently diving into cloud security, incident response frameworks, and cybersecurity alert triaging, with a special focus on AWS and software exploits. Beyond academics, I actively participate in Capture The Flag (CTF) challenges, honing my problem-solving and reverse engineering skills.
 
 <!--
 **KavyaVarshini-Anburasu/KavyaVarshini-Anburasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
